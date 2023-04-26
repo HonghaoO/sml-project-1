@@ -20,4 +20,4 @@ Following is the main function of notebooks:
 
 
 
-To come up the the final prediction result, run the notebooks above, then concatenate the 'out.csv' and 'last 400 out.csv'.
+To come up with the final prediction result, run the notebooks above, then concatenate the 'out.csv' and 'last 400 out.csv'.
