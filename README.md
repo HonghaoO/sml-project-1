@@ -1,5 +1,5 @@
 # sml-project-1
-<<<<<<< HEAD
+
 Group members:
 Jiaming Zheng 1173102
 Honghao Ou 1170567
